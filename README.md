@@ -16,7 +16,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 preparando un pull
 
-#editanto titulo
+## editanto titulo
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus consequatur voluptas iure repellat quas, aliquam perspiciatis, officia sunt quos, tempore temporibus atque in deserunt amet voluptate ullam placeat saepe? Illo.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore possimus impedit sint neque, mollitia nihil ea dolorem ipsa magni est, rerum itaque repellat iste at debitis sapiente sed earum quia.
